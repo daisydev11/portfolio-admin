@@ -1,0 +1,299 @@
+{
+  "colours": [
+    [
+      "bg",
+      "Body / hero / page heading",
+      "#5b2537"
+    ],
+    [
+      "section-bg",
+      "Projects / skills background",
+      "#f8edf2"
+    ],
+    [
+      "contact-bg",
+      "Contact background",
+      "#f2dbe5"
+    ],
+    [
+      "footer-bg",
+      "Footer background",
+      "#4a1d2c"
+    ],
+    [
+      "accent",
+      "Accent / lines / timeline",
+      "#8b2448"
+    ],
+    [
+      "hover-bg",
+      "Button hover background",
+      "#a4345d"
+    ],
+    [
+      "nav",
+      "Navigation background",
+      "#71384b"
+    ],
+    [
+      "pale",
+      "Light button background",
+      "#f7e6ed"
+    ],
+    [
+      "text",
+      "Hero / case study headings",
+      "#ffffff"
+    ],
+    [
+      "body",
+      "Hero / case study paragraphs",
+      "#fff4f8"
+    ],
+    [
+      "muted",
+      "Muted text",
+      "#4f2b37"
+    ],
+    [
+      "field",
+      "Form input background",
+      "#ffffff"
+    ],
+    [
+      "card",
+      "Project card background (white box)",
+      "#ffffff"
+    ],
+    [
+      "panel-bg",
+      "Skills panel background",
+      "#ffffff"
+    ],
+    [
+      "heading-color",
+      "Section headings",
+      "#60223b"
+    ],
+    [
+      "card-title",
+      "Project titles",
+      "#542135"
+    ],
+    [
+      "card-text",
+      "Project descriptions",
+      "#44222f"
+    ],
+    [
+      "category-color",
+      "Project category labels",
+      "#8b2448"
+    ],
+    [
+      "link-color",
+      "Project links / social links",
+      "#8b2448"
+    ],
+    [
+      "border-color",
+      "Card / form borders",
+      "#e9cdd8"
+    ],
+    [
+      "button-bg",
+      "Primary button background",
+      "#8b2448"
+    ],
+    [
+      "button-text",
+      "Primary button text / cursor",
+      "#ffffff"
+    ],
+    [
+      "button-hover-text",
+      "Button hover text",
+      "#ffffff"
+    ],
+    [
+      "pale-text",
+      "Light button text",
+      "#6c1836"
+    ],
+    [
+      "nav-text",
+      "Navigation text",
+      "#fff0f5"
+    ],
+    [
+      "footer-text",
+      "Footer text",
+      "#fff0f5"
+    ],
+    [
+      "contact-text",
+      "Contact labels / text",
+      "#44222f"
+    ],
+    [
+      "field-text",
+      "Form input text",
+      "#351421"
+    ],
+    [
+      "placeholder-text",
+      "Form placeholder text",
+      "#73535f"
+    ],
+    [
+      "skill-text",
+      "Skills / experience text",
+      "#351421"
+    ],
+    [
+      "case-subheading",
+      "Case study subheadings",
+      "#ffdfeb"
+    ],
+    [
+      "backtop-bg",
+      "Back-to-top button",
+      "#8b2448"
+    ],
+    [
+      "backtop-text",
+      "Back-to-top arrow",
+      "#ffffff"
+    ]
+  ],
+  "layout": [
+    [
+      "heading-size",
+      "Hero / page heading size",
+      54,
+      24,
+      96,
+      "px"
+    ],
+    [
+      "heading-weight",
+      "Heading font weight",
+      800,
+      400,
+      900,
+      ""
+    ],
+    [
+      "body-size",
+      "Hero paragraph size",
+      18,
+      12,
+      32,
+      "px"
+    ],
+    [
+      "body-weight",
+      "Body font weight",
+      500,
+      400,
+      900,
+      ""
+    ],
+    [
+      "card-title-size",
+      "Project title size",
+      32,
+      18,
+      64,
+      "px"
+    ],
+    [
+      "card-title-weight",
+      "Project title weight",
+      800,
+      400,
+      900,
+      ""
+    ],
+    [
+      "card-text-size",
+      "Project description size",
+      16,
+      12,
+      28,
+      "px"
+    ],
+    [
+      "card-text-weight",
+      "Project description weight",
+      600,
+      400,
+      900,
+      ""
+    ],
+    [
+      "card-padding",
+      "Project card padding",
+      28,
+      0,
+      80,
+      "px"
+    ],
+    [
+      "card-radius",
+      "Project card corners",
+      12,
+      0,
+      80,
+      "px"
+    ],
+    [
+      "card-border-width",
+      "Project card border width",
+      1,
+      0,
+      8,
+      "px"
+    ],
+    [
+      "grid-gap",
+      "Project card gap",
+      36,
+      0,
+      100,
+      "px"
+    ],
+    [
+      "section-padding",
+      "Projects section spacing",
+      72,
+      0,
+      160,
+      "px"
+    ],
+    [
+      "button-radius",
+      "Button corners",
+      7,
+      0,
+      50,
+      "px"
+    ],
+    [
+      "button-size",
+      "Button text size",
+      16,
+      12,
+      28,
+      "px"
+    ],
+    [
+      "image-radius",
+      "Mockup corners",
+      0,
+      0,
+      80,
+      "px"
+    ]
+  ]
+}

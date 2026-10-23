@@ -1,0 +1,96 @@
+/* EDIT COLOURS HERE. This file loads LAST on every portfolio page.
+   In admin, choose "CSS file" under Colours & styling to ignore saved colours. */
+:root {
+  --bg: #5b2537;           /* Body, hero, page introductions, case studies */
+  --section-bg: #f8edf2;   /* Selected projects and skills backgrounds */
+  --contact-bg: #f2dbe5;   /* Contact section */
+  --footer-bg: #4a1d2c;
+  --accent: #8b2448;       /* Buttons, section lines, timeline */
+  --hover-bg: #a4345d;     /* Button hover */
+  --nav: #71384b;
+  --pale: #f7e6ed;        /* Pale buttons */
+  --text: #ffffff;
+  --body: #fff4f8;
+  --muted: #4f2b37;
+  --field: #ffffff;
+  --card: #ffffff;
+  --panel-bg: #ffffff;
+  --heading-color: #60223b;
+  --card-title: #542135;
+  --card-text: #44222f;
+  --category-color: #8b2448;
+  --link-color: #8b2448;
+  --border-color: #e9cdd8;
+  --button-bg: #8b2448;
+  --button-text: #ffffff;
+  --button-hover-text: #ffffff;
+  --pale-text: #6c1836;
+  --nav-text: #fff0f5;
+  --footer-text: #fff0f5;
+  --contact-text: #44222f;
+  --field-text: #351421;
+  --placeholder-text: #73535f;
+  --skill-text: #351421;
+  --case-subheading: #ffdfeb;
+  --backtop-bg: #8b2448;
+  --backtop-text: #ffffff;
+  --heading-size: 54px;
+  --heading-weight: 800;
+  --body-size: 18px;
+  --body-weight: 500;
+  --card-title-size: 32px;
+  --card-title-weight: 800;
+  --card-text-size: 16px;
+  --card-text-weight: 600;
+  --card-padding: 28px;
+  --card-radius: 12px;
+  --card-border-width: 1px;
+  --grid-gap: 36px;
+  --section-padding: 72px;
+  --button-radius: 7px;
+  --button-size: 16px;
+  --image-radius: 0px;
+}
+.project-card,.textured .project-card,.white-panel{background:var(--card)}
+.form-field input,.form-field textarea{background:var(--field)}
+
+/* No coloured rectangle behind mockups. Uploaded image pixels remain untouched. */
+.mockup-stage,.project-cover{background:transparent;background-image:none;border:0;box-shadow:none}
+.project-cover{border-radius:var(--image-radius)}
+.project-card:hover .project-cover{box-shadow:none}
+.project-card,.textured .project-card{background:var(--card);border:var(--card-border-width) solid var(--border-color);border-radius:var(--card-radius);padding:var(--card-padding)}
+.white-panel{background:var(--panel-bg)}
+.project-grid{gap:var(--grid-gap)}.project-section{padding-block:var(--section-padding)}
+.hero-copy h1,.page-intro h1{font-size:clamp(32px,4vw,var(--heading-size));font-weight:var(--heading-weight);color:var(--text)}
+.hero-copy p{font-size:var(--body-size);font-weight:var(--body-weight);color:var(--body)}
+.section-title,.social-block h2{color:var(--heading-color)}
+.project-card h3{color:var(--card-title);font-size:var(--card-title-size);font-weight:var(--card-title-weight)}
+.project-summary{color:var(--card-text);font-size:var(--card-text-size);font-weight:var(--card-text-weight)}
+.project-card .category{color:var(--category-color)}
+.card-link,.social-links a{color:var(--link-color)}
+.button{border-radius:var(--button-radius);font-size:var(--button-size)}
+.button-purple,.submit-button{background:var(--button-bg);color:var(--button-text)}
+.button-purple:hover,.submit-button:hover{background:var(--hover-bg);color:var(--button-hover-text)}
+.button-pale{background:var(--pale);color:var(--pale-text)}
+.cursor-icon{color:var(--button-text)}
+.desktop-nav a,.mobile-nav a,.desktop-nav a[aria-current=page]{color:var(--nav-text)}
+.site-footer{color:var(--footer-text)}
+.contact-intro,.social-block p,.form-field label,.form-status{color:var(--contact-text)}
+.form-field input,.form-field textarea{color:var(--field-text);border-color:var(--border-color)}
+.form-field input::placeholder,.form-field textarea::placeholder{color:var(--placeholder-text)}
+.skill h3,.skill p,.experience h3,.experience span,.experience .experience-role,.experience .experience-description,.case-process-panel h3,.case-process-panel p{color:var(--skill-text)}
+.case-reference h1,.case-reference h2{color:var(--text)}
+.case-reference p,.case-reference li{color:var(--body)}
+.case-reference h3{color:var(--case-subheading)}
+.case-heading:after,.experience,.experience::before,.skill-icon{border-color:var(--accent)}
+.case-heading:after{background:var(--accent)}
+.back-to-top span:first-child{background:var(--backtop-bg)!important;color:var(--backtop-text)!important}
+.cursor-icon path{fill:currentColor}
+
+/* Back-to-top: style the two outer pieces, never the editable inner text. */
+.back-to-top{width:auto!important;max-width:140px;right:22px!important;bottom:22px!important;align-items:center;font-size:13px;line-height:1.3}
+.back-to-top > span:first-child{display:grid;place-items:center;width:44px;height:44px;padding:0;border:0;border-radius:7px;font-size:28px;line-height:1;background:var(--backtop-bg)!important;color:var(--backtop-text)!important}
+.back-to-top > span:last-child{display:block;width:auto;height:auto;max-width:none;padding:4px 8px;border:0;border-radius:4px;font-size:13px;line-height:1.3;white-space:nowrap;background:var(--section-bg)!important;color:var(--link-color)!important}
+.back-to-top > span > span[data-cms-text]{display:inline;width:auto;height:auto;min-width:0;max-width:none;padding:0;margin:0;border:0;border-radius:0;box-shadow:none;font-size:inherit;font-weight:inherit;line-height:inherit;white-space:inherit;background:transparent!important;color:inherit!important}
+.site-footer{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:.35em}
+@media(max-width:767px){.back-to-top{right:12px!important;bottom:12px!important}}

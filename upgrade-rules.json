@@ -1,0 +1,1134 @@
+{
+  "applyd": {
+    "removedFields": [
+      "field-12",
+      "field-5",
+      "social-youtube"
+    ],
+    "removedSections": [],
+    "newFields": [],
+    "defaults": [
+      {
+        "id": "field-9",
+        "previous": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu\n        \u2630"
+        },
+        "next": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu \u2630"
+        }
+      },
+      {
+        "id": "field-84",
+        "previous": {
+          "id": "field-84",
+          "section": "section-9",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": "The form isn\u2019t connected yet. You can reach me on LinkedIn."
+        },
+        "next": {
+          "id": "field-84",
+          "section": "section-9",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": ""
+        }
+      },
+      {
+        "id": "field-87",
+        "previous": {
+          "id": "field-87",
+          "section": "section-9",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn \u2197",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        },
+        "next": {
+          "id": "field-87",
+          "section": "section-9",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        }
+      },
+      {
+        "id": "field-88",
+        "previous": {
+          "id": "field-88",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble \u2197",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        },
+        "next": {
+          "id": "field-88",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        }
+      },
+      {
+        "id": "field-89",
+        "previous": {
+          "id": "field-89",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram \u2197",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        },
+        "next": {
+          "id": "field-89",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        }
+      }
+    ]
+  },
+  "about": {
+    "removedFields": [
+      "field-12",
+      "field-5",
+      "social-youtube"
+    ],
+    "removedSections": [],
+    "newFields": [
+      {
+        "id": "experience-stalwart-dates",
+        "section": "section-2",
+        "kind": "text",
+        "label": "Stalwart Crest \u2014 Dates",
+        "value": "May\u2013September 2026"
+      },
+      {
+        "id": "experience-stalwart-description",
+        "section": "section-2",
+        "kind": "text",
+        "label": "Stalwart Crest \u2014 Experience description",
+        "value": "Designed user flows, wireframes and high-fidelity interfaces for Etch. Worked with engineers to translate product requirements into clear, usable experiences."
+      },
+      {
+        "id": "experience-sierra-dates",
+        "section": "section-2",
+        "kind": "text",
+        "label": "Sierra Africa \u2014 Dates",
+        "value": "January\u2013August 2026"
+      },
+      {
+        "id": "experience-sierra-description",
+        "section": "section-2",
+        "kind": "text",
+        "label": "Sierra Africa \u2014 Experience description",
+        "value": "Designed user flows, wireframes and interface screens, turning product requirements into usable experiences."
+      },
+      {
+        "id": "experience-cwg-employer",
+        "section": "section-2",
+        "kind": "text",
+        "label": "CWG plc \u2014 Employer",
+        "value": "CWG plc"
+      },
+      {
+        "id": "experience-cwg-role",
+        "section": "section-2",
+        "kind": "text",
+        "label": "CWG plc \u2014 Role",
+        "value": "IT Support Specialist \u00b7 Hybrid"
+      },
+      {
+        "id": "experience-cwg-dates",
+        "section": "section-2",
+        "kind": "text",
+        "label": "CWG plc \u2014 Dates",
+        "value": "January\u2013June 2025"
+      },
+      {
+        "id": "experience-cwg-description",
+        "section": "section-2",
+        "kind": "text",
+        "label": "CWG plc \u2014 Experience description",
+        "value": "Provided technical support, troubleshooting and issue resolution across user and client systems. Documented recurring issues to support day-to-day operations."
+      }
+    ],
+    "defaults": [
+      {
+        "id": "field-9",
+        "previous": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu\n        \u2630"
+        },
+        "next": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu \u2630"
+        }
+      },
+      {
+        "id": "field-17",
+        "previous": {
+          "id": "field-17",
+          "section": "section-1",
+          "kind": "text",
+          "label": "Hi, I\u2019m Daisy, a Product Designer and First Class Computer Scienc",
+          "value": "Hi, I\u2019m Daisy, a Product Designer and First Class Computer Science graduate\n            from Babcock University."
+        },
+        "next": {
+          "id": "field-17",
+          "section": "section-1",
+          "kind": "text",
+          "label": "Hi, I\u2019m Daisy, a Product Designer and First Class Computer Scienc",
+          "value": "Hi, I\u2019m Daisy, a Product Designer and First Class Computer Science graduate from Babcock University."
+        }
+      },
+      {
+        "id": "field-18",
+        "previous": {
+          "id": "field-18",
+          "section": "section-1",
+          "kind": "text",
+          "label": "I enjoy understanding people\u2019s needs, finding the pain points in ",
+          "value": "I enjoy understanding people\u2019s needs, finding the pain points in an\n            experience, and turning those insights into practical design decisions. My\n            work brings together research, interaction design, prototyping, and UI design."
+        },
+        "next": {
+          "id": "field-18",
+          "section": "section-1",
+          "kind": "text",
+          "label": "I enjoy understanding people\u2019s needs, finding the pain points in ",
+          "value": "I enjoy understanding people\u2019s needs, finding the pain points in an experience, and turning those insights into practical design decisions. My work brings together research, interaction design, prototyping, and UI design."
+        }
+      },
+      {
+        "id": "field-19",
+        "previous": {
+          "id": "field-19",
+          "section": "section-1",
+          "kind": "text",
+          "label": "I care about interfaces that are reliable and accessible, with fu",
+          "value": "I care about interfaces that are reliable and accessible, with functionality\n            and user needs guiding the visual choices. My computer science background also\n            helps me think through how an experience can be built."
+        },
+        "next": {
+          "id": "field-19",
+          "section": "section-1",
+          "kind": "text",
+          "label": "I care about interfaces that are reliable and accessible, with fu",
+          "value": "I care about interfaces that are reliable and accessible, with functionality and user needs guiding the visual choices. My computer science background also helps me think through how an experience can be built."
+        }
+      },
+      {
+        "id": "field-21",
+        "previous": {
+          "id": "field-21",
+          "section": "section-1",
+          "kind": "link",
+          "label": "Get in touch\n              \u2667",
+          "value": "Get in touch\n              \u2667",
+          "href": "contact.html"
+        },
+        "next": {
+          "id": "field-21",
+          "section": "section-1",
+          "kind": "link",
+          "label": "Get in touch\n              \u2667",
+          "value": "Get in touch",
+          "href": "contact.html"
+        }
+      },
+      {
+        "id": "field-24",
+        "previous": {
+          "id": "field-24",
+          "section": "section-2",
+          "kind": "text",
+          "label": "Understanding user needs and pain points to guide meaningful desi",
+          "value": "Understanding user needs and pain points to guide meaningful design\n                  decisions."
+        },
+        "next": {
+          "id": "field-24",
+          "section": "section-2",
+          "kind": "text",
+          "label": "Understanding user needs and pain points to guide meaningful desi",
+          "value": "Understanding user needs and pain points to guide meaningful design decisions."
+        }
+      },
+      {
+        "id": "field-26",
+        "previous": {
+          "id": "field-26",
+          "section": "section-2",
+          "kind": "text",
+          "label": "Creating clear, polished interfaces that put functionality and us",
+          "value": "Creating clear, polished interfaces that put functionality and user\n                  needs first."
+        },
+        "next": {
+          "id": "field-26",
+          "section": "section-2",
+          "kind": "text",
+          "label": "Creating clear, polished interfaces that put functionality and us",
+          "value": "Creating clear, polished interfaces that put functionality and user needs first."
+        }
+      },
+      {
+        "id": "field-30",
+        "previous": {
+          "id": "field-30",
+          "section": "section-2",
+          "kind": "text",
+          "label": "Making ideas tangible, from early structure to interactive high-f",
+          "value": "Making ideas tangible, from early structure to interactive high-fidelity\n                  designs."
+        },
+        "next": {
+          "id": "field-30",
+          "section": "section-2",
+          "kind": "text",
+          "label": "Making ideas tangible, from early structure to interactive high-f",
+          "value": "Making ideas tangible, from early structure to interactive high-fidelity designs."
+        }
+      },
+      {
+        "id": "field-34",
+        "previous": {
+          "id": "field-34",
+          "section": "section-2",
+          "kind": "text",
+          "label": "Connecting design and implementation through HTML, CSS, JavaScrip",
+          "value": "Connecting design and implementation through HTML, CSS, JavaScript, and\n                  React."
+        },
+        "next": {
+          "id": "field-34",
+          "section": "section-2",
+          "kind": "text",
+          "label": "Connecting design and implementation through HTML, CSS, JavaScrip",
+          "value": "Connecting design and implementation through HTML, CSS, JavaScript, and React."
+        }
+      },
+      {
+        "id": "field-38",
+        "previous": {
+          "id": "field-38",
+          "section": "section-2",
+          "kind": "text",
+          "label": "Sierra",
+          "value": "Sierra"
+        },
+        "next": {
+          "id": "field-38",
+          "section": "section-2",
+          "kind": "text",
+          "label": "Sierra",
+          "value": "Sierra Africa"
+        }
+      },
+      {
+        "id": "field-39",
+        "previous": {
+          "id": "field-39",
+          "section": "section-2",
+          "kind": "text",
+          "label": "UI/UX Assistant Designer",
+          "value": "UI/UX Assistant Designer"
+        },
+        "next": {
+          "id": "field-39",
+          "section": "section-2",
+          "kind": "text",
+          "label": "UI/UX Assistant Designer",
+          "value": "Product Designer \u00b7 Contract"
+        }
+      },
+      {
+        "id": "field-67",
+        "previous": {
+          "id": "field-67",
+          "section": "section-4",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": "The form isn\u2019t connected yet. You can reach me on LinkedIn."
+        },
+        "next": {
+          "id": "field-67",
+          "section": "section-4",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": ""
+        }
+      },
+      {
+        "id": "field-70",
+        "previous": {
+          "id": "field-70",
+          "section": "section-4",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn \u2197",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        },
+        "next": {
+          "id": "field-70",
+          "section": "section-4",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        }
+      },
+      {
+        "id": "field-71",
+        "previous": {
+          "id": "field-71",
+          "section": "section-4",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble \u2197",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        },
+        "next": {
+          "id": "field-71",
+          "section": "section-4",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        }
+      },
+      {
+        "id": "field-72",
+        "previous": {
+          "id": "field-72",
+          "section": "section-4",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram \u2197",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        },
+        "next": {
+          "id": "field-72",
+          "section": "section-4",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        }
+      }
+    ]
+  },
+  "contact": {
+    "removedFields": [
+      "field-12",
+      "field-5",
+      "social-youtube"
+    ],
+    "removedSections": [],
+    "newFields": [],
+    "defaults": [
+      {
+        "id": "field-9",
+        "previous": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu\n        \u2630"
+        },
+        "next": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu \u2630"
+        }
+      },
+      {
+        "id": "field-21",
+        "previous": {
+          "id": "field-21",
+          "section": "section-1",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": "The form isn\u2019t connected yet. You can reach me on LinkedIn."
+        },
+        "next": {
+          "id": "field-21",
+          "section": "section-1",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": ""
+        }
+      },
+      {
+        "id": "field-24",
+        "previous": {
+          "id": "field-24",
+          "section": "section-1",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn \u2197",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        },
+        "next": {
+          "id": "field-24",
+          "section": "section-1",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        }
+      },
+      {
+        "id": "field-25",
+        "previous": {
+          "id": "field-25",
+          "section": "section-1",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble \u2197",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        },
+        "next": {
+          "id": "field-25",
+          "section": "section-1",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        }
+      },
+      {
+        "id": "field-26",
+        "previous": {
+          "id": "field-26",
+          "section": "section-1",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram \u2197",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        },
+        "next": {
+          "id": "field-26",
+          "section": "section-1",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        }
+      }
+    ]
+  },
+  "projects": {
+    "removedFields": [
+      "field-12",
+      "field-5",
+      "social-youtube"
+    ],
+    "removedSections": [],
+    "newFields": [
+      {
+        "id": "projects-intro-copy",
+        "section": "section-1",
+        "kind": "text",
+        "label": "Projects introduction",
+        "value": "From understanding the problem to designing the experience."
+      }
+    ],
+    "defaults": [
+      {
+        "id": "field-9",
+        "previous": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu\n        \u2630"
+        },
+        "next": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu \u2630"
+        }
+      },
+      {
+        "id": "field-15",
+        "previous": {
+          "id": "field-15",
+          "section": "section-1",
+          "kind": "text",
+          "label": "A selection of my work,\n          \n          from understanding t",
+          "value": "A selection of my work,\n          \n          from understanding the problem\n          \n          to designing the experience."
+        },
+        "next": {
+          "id": "field-15",
+          "section": "section-1",
+          "kind": "text",
+          "label": "A selection of my work,\n          \n          from understanding t",
+          "value": "Selected Projects"
+        }
+      },
+      {
+        "id": "field-43",
+        "previous": {
+          "id": "field-43",
+          "section": "section-3",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": "The form isn\u2019t connected yet. You can reach me on LinkedIn."
+        },
+        "next": {
+          "id": "field-43",
+          "section": "section-3",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": ""
+        }
+      },
+      {
+        "id": "field-46",
+        "previous": {
+          "id": "field-46",
+          "section": "section-3",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn \u2197",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        },
+        "next": {
+          "id": "field-46",
+          "section": "section-3",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        }
+      },
+      {
+        "id": "field-47",
+        "previous": {
+          "id": "field-47",
+          "section": "section-3",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble \u2197",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        },
+        "next": {
+          "id": "field-47",
+          "section": "section-3",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        }
+      },
+      {
+        "id": "field-48",
+        "previous": {
+          "id": "field-48",
+          "section": "section-3",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram \u2197",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        },
+        "next": {
+          "id": "field-48",
+          "section": "section-3",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        }
+      }
+    ]
+  },
+  "soravacue": {
+    "removedFields": [
+      "field-12",
+      "field-5",
+      "social-youtube"
+    ],
+    "removedSections": [],
+    "newFields": [],
+    "defaults": [
+      {
+        "id": "field-9",
+        "previous": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu\n        \u2630"
+        },
+        "next": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu \u2630"
+        }
+      },
+      {
+        "id": "field-83",
+        "previous": {
+          "id": "field-83",
+          "section": "section-9",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": "The form isn\u2019t connected yet. You can reach me on LinkedIn."
+        },
+        "next": {
+          "id": "field-83",
+          "section": "section-9",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": ""
+        }
+      },
+      {
+        "id": "field-86",
+        "previous": {
+          "id": "field-86",
+          "section": "section-9",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn \u2197",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        },
+        "next": {
+          "id": "field-86",
+          "section": "section-9",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        }
+      },
+      {
+        "id": "field-87",
+        "previous": {
+          "id": "field-87",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble \u2197",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        },
+        "next": {
+          "id": "field-87",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        }
+      },
+      {
+        "id": "field-88",
+        "previous": {
+          "id": "field-88",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram \u2197",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        },
+        "next": {
+          "id": "field-88",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        }
+      }
+    ]
+  },
+  "index": {
+    "removedFields": [
+      "field-12",
+      "field-41",
+      "field-42",
+      "field-43",
+      "field-44",
+      "field-45",
+      "field-46",
+      "field-47",
+      "field-5",
+      "social-youtube"
+    ],
+    "removedSections": [
+      "section-3"
+    ],
+    "newFields": [],
+    "defaults": [
+      {
+        "id": "field-9",
+        "previous": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu\n        \u2630"
+        },
+        "next": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu \u2630"
+        }
+      },
+      {
+        "id": "field-15",
+        "previous": {
+          "id": "field-15",
+          "section": "section-1",
+          "kind": "text",
+          "label": "Hi there! I\u2019m Daisy,\n            \n            A Product\n         ",
+          "value": "Hi there! I\u2019m Daisy,\n            \n            A Product\n            \n            Designer"
+        },
+        "next": {
+          "id": "field-15",
+          "section": "section-1",
+          "kind": "text",
+          "label": "Hi there! I\u2019m Daisy,\n            \n            A Product\n         ",
+          "value": "Hi there! I\u2019m Daisy, A Product Designer."
+        }
+      },
+      {
+        "id": "field-16",
+        "previous": {
+          "id": "field-16",
+          "section": "section-1",
+          "kind": "text",
+          "label": "I\u2019m a product designer and First Class Computer Science graduate.",
+          "value": "I\u2019m a product designer and First Class Computer Science graduate. I research\n            user needs, uncover pain points, and turn them into clear, reliable and\n            accessible digital experiences."
+        },
+        "next": {
+          "id": "field-16",
+          "section": "section-1",
+          "kind": "text",
+          "label": "I\u2019m a product designer and First Class Computer Science graduate.",
+          "value": "I\u2019m a product designer and First Class Computer Science graduate. I research user needs, uncover pain points, and turn them into clear, reliable and accessible digital experiences."
+        }
+      },
+      {
+        "id": "field-18",
+        "previous": {
+          "id": "field-18",
+          "section": "section-1",
+          "kind": "link",
+          "label": "Get in touch\n              \u2667",
+          "value": "Get in touch\n              \u2667",
+          "href": "contact.html"
+        },
+        "next": {
+          "id": "field-18",
+          "section": "section-1",
+          "kind": "link",
+          "label": "Get in touch\n              \u2667",
+          "value": "Get in touch",
+          "href": "contact.html"
+        }
+      },
+      {
+        "id": "field-54",
+        "previous": {
+          "id": "field-54",
+          "section": "section-4",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": "The form isn\u2019t connected yet. You can reach me on LinkedIn."
+        },
+        "next": {
+          "id": "field-54",
+          "section": "section-4",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": ""
+        }
+      },
+      {
+        "id": "field-57",
+        "previous": {
+          "id": "field-57",
+          "section": "section-4",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn \u2197",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        },
+        "next": {
+          "id": "field-57",
+          "section": "section-4",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        }
+      },
+      {
+        "id": "field-58",
+        "previous": {
+          "id": "field-58",
+          "section": "section-4",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble \u2197",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        },
+        "next": {
+          "id": "field-58",
+          "section": "section-4",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        }
+      },
+      {
+        "id": "field-59",
+        "previous": {
+          "id": "field-59",
+          "section": "section-4",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram \u2197",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        },
+        "next": {
+          "id": "field-59",
+          "section": "section-4",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        }
+      }
+    ]
+  },
+  "prelp": {
+    "removedFields": [
+      "field-12",
+      "field-5",
+      "social-youtube"
+    ],
+    "removedSections": [],
+    "newFields": [],
+    "defaults": [
+      {
+        "id": "field-9",
+        "previous": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu\n        \u2630"
+        },
+        "next": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu \u2630"
+        }
+      },
+      {
+        "id": "field-83",
+        "previous": {
+          "id": "field-83",
+          "section": "section-9",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": "The form isn\u2019t connected yet. You can reach me on LinkedIn."
+        },
+        "next": {
+          "id": "field-83",
+          "section": "section-9",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": ""
+        }
+      },
+      {
+        "id": "field-86",
+        "previous": {
+          "id": "field-86",
+          "section": "section-9",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn \u2197",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        },
+        "next": {
+          "id": "field-86",
+          "section": "section-9",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        }
+      },
+      {
+        "id": "field-87",
+        "previous": {
+          "id": "field-87",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble \u2197",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        },
+        "next": {
+          "id": "field-87",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        }
+      },
+      {
+        "id": "field-88",
+        "previous": {
+          "id": "field-88",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram \u2197",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        },
+        "next": {
+          "id": "field-88",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        }
+      }
+    ]
+  },
+  "whosabiam": {
+    "removedFields": [
+      "field-12",
+      "field-5",
+      "social-youtube"
+    ],
+    "removedSections": [],
+    "newFields": [],
+    "defaults": [
+      {
+        "id": "field-9",
+        "previous": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu\n        \u2630"
+        },
+        "next": {
+          "id": "field-9",
+          "section": "section-0",
+          "kind": "text",
+          "label": "Menu\n        \u2630",
+          "value": "Menu \u2630"
+        }
+      },
+      {
+        "id": "field-83",
+        "previous": {
+          "id": "field-83",
+          "section": "section-9",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": "The form isn\u2019t connected yet. You can reach me on LinkedIn."
+        },
+        "next": {
+          "id": "field-83",
+          "section": "section-9",
+          "kind": "text",
+          "label": "The form isn\u2019t connected yet. You can reach me on LinkedIn.",
+          "value": ""
+        }
+      },
+      {
+        "id": "field-86",
+        "previous": {
+          "id": "field-86",
+          "section": "section-9",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn \u2197",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        },
+        "next": {
+          "id": "field-86",
+          "section": "section-9",
+          "kind": "link",
+          "label": "LinkedIn \u2197",
+          "value": "LinkedIn",
+          "href": "https://www.linkedin.com/in/daisy-imhanzenobe/"
+        }
+      },
+      {
+        "id": "field-87",
+        "previous": {
+          "id": "field-87",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble \u2197",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        },
+        "next": {
+          "id": "field-87",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Dribbble \u2197",
+          "value": "Dribbble",
+          "href": "https://dribbble.com/daisy-imhanzenobe"
+        }
+      },
+      {
+        "id": "field-88",
+        "previous": {
+          "id": "field-88",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram \u2197",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        },
+        "next": {
+          "id": "field-88",
+          "section": "section-9",
+          "kind": "link",
+          "label": "Instagram \u2197",
+          "value": "Instagram",
+          "href": "https://www.instagram.com/the_alexandrah/"
+        }
+      }
+    ]
+  }
+}
